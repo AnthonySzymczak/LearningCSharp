@@ -1,0 +1,15 @@
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\UserInputs.exe
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\UserInputs.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\UserInputs.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\UserInputs.dll
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\ref\UserInputs.dll
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\bin\Debug\net6.0\UserInputs.pdb
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.dll
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\ref\UserInputs.dll
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.pdb
+C:\Users\Tony\source\repos\LearningCSharp\UserInputs\UserInputs\obj\Debug\net6.0\UserInputs.genruntimeconfig.cache
