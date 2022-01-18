@@ -1,0 +1,14 @@
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\BasicArithmetic.exe
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\BasicArithmetic.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\BasicArithmetic.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\BasicArithmetic.dll
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\ref\BasicArithmetic.dll
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\bin\Debug\net6.0\BasicArithmetic.pdb
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.dll
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\ref\BasicArithmetic.dll
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.pdb
+C:\Users\Tony\source\repos\LearningCSharp\BasicArithmetic\BasicArithmetic\obj\Debug\net6.0\BasicArithmetic.genruntimeconfig.cache
