@@ -1,0 +1,15 @@
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\LearningMathClass.exe
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\LearningMathClass.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\LearningMathClass.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\LearningMathClass.dll
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\ref\LearningMathClass.dll
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\bin\Debug\net6.0\LearningMathClass.pdb
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.dll
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\ref\LearningMathClass.dll
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.pdb
+C:\Users\Tony\source\repos\LearningCSharp\LearningMathClass\LearningMathClass\obj\Debug\net6.0\LearningMathClass.genruntimeconfig.cache

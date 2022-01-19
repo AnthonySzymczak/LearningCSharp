@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aa966c7-1fcc-49a6-ab85-02e8a5489a69": {
+      "ProjectGuid": "8aa966c7-1fcc-49a6-ab85-02e8a5489a69",
+      "DisplayName": "BasicArithmetic",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
