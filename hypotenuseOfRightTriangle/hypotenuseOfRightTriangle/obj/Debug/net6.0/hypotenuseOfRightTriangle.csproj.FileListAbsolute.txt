@@ -1,0 +1,14 @@
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\hypotenuseOfRightTriangle.exe
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\hypotenuseOfRightTriangle.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\hypotenuseOfRightTriangle.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\hypotenuseOfRightTriangle.dll
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\ref\hypotenuseOfRightTriangle.dll
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\bin\Debug\net6.0\hypotenuseOfRightTriangle.pdb
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.dll
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\ref\hypotenuseOfRightTriangle.dll
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.pdb
+C:\Users\Tony\source\repos\LearningCSharp\hypotenuseOfRightTriangle\hypotenuseOfRightTriangle\obj\Debug\net6.0\hypotenuseOfRightTriangle.genruntimeconfig.cache
