@@ -1,0 +1,15 @@
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\randomNumbers.exe
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\randomNumbers.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\randomNumbers.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\randomNumbers.dll
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\ref\randomNumbers.dll
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\bin\Debug\net6.0\randomNumbers.pdb
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.dll
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\ref\randomNumbers.dll
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.pdb
+C:\Users\Tony\source\repos\LearningCSharp\randomNumbers\randomNumbers\obj\Debug\net6.0\randomNumbers.genruntimeconfig.cache
