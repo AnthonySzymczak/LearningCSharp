@@ -1,0 +1,14 @@
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\UsefulStringMethods.exe
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\UsefulStringMethods.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\UsefulStringMethods.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\UsefulStringMethods.dll
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\ref\UsefulStringMethods.dll
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\bin\Debug\net6.0\UsefulStringMethods.pdb
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.dll
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\ref\UsefulStringMethods.dll
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.pdb
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.genruntimeconfig.cache
