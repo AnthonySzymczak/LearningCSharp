@@ -12,3 +12,4 @@ C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethod
 C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\ref\UsefulStringMethods.dll
 C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.pdb
 C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.genruntimeconfig.cache
+C:\Users\Tony\source\repos\LearningCSharp\UsefulStringMethods\UsefulStringMethods\obj\Debug\net6.0\UsefulStringMethods.csproj.AssemblyReference.cache
