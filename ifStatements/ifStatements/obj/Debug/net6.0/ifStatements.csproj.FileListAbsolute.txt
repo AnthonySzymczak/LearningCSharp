@@ -1,0 +1,15 @@
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.exe
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.deps.json
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.runtimeconfig.json
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.dll
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ref\ifStatements.dll
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\bin\Debug\net6.0\ifStatements.pdb
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.AssemblyInfo.cs
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.dll
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ref\ifStatements.dll
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.pdb
+C:\Users\Tony\source\repos\LearningCSharp\ifStatements\ifStatements\obj\Debug\net6.0\ifStatements.genruntimeconfig.cache
