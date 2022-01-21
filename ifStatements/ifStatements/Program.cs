@@ -10,9 +10,17 @@ Console.WriteLine("please enter your age: ");
 int age = Convert.ToInt32(Console.ReadLine());
 
 // 
-if (age >= 18)
+if (age > 100)
+{
+    Console.WriteLine("congratulations on reaching that milestone! you're signed up!");
+}
+else if (age >= 18)
 {
     Console.WriteLine("you are now signed up!");
+}
+else if(age < 0)
+{
+    Console.WriteLine("You haven't been born yet!");
 }
 else
 {
